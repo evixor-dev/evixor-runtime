@@ -2,10 +2,11 @@
 
 **Evixor Runtime** is a lightweight, embeddable workflow engine for orchestrating multi-step pipelines with retries, parallel execution, subpipelines, and human-in-the-loop interactions.
 
-Check out a working demo on GitHub: https://github.com/evixor-dev/workflow-demo
-Try it live at: https://evixor.org
+- GitHub: https://github.com/evixor-dev/evixor-runtime
+- Demo: https://github.com/evixor-dev/workflow-demo
+- Live: https://evixor.org
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Licensed under the [MIT License](LICENSE).
 
 ## Overview
 
@@ -84,4 +85,6 @@ const result = await runtime.run(payload)
 
 ## License
 
-MIT License. See [LICENSE](LICENSE) file for details.
+MIT License. See [LICENSE](LICENSE) for details.
+
+Source: https://github.com/evixor-dev/evixor-runtime

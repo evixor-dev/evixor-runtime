@@ -1,0 +1,13 @@
+Evixor Runtime
+Copyright (c) 2026 Evixor
+
+This product is licensed under the MIT License.
+
+This product includes software developed by Evixor.
+
+This product may include development-time dependencies such as:
+- TypeScript (Apache-2.0)
+- esbuild (MIT)
+- @types/node (MIT)
+
+These dependencies are used only during development and are not included in the distributed runtime.
